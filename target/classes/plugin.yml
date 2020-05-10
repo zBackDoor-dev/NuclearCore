@@ -1,0 +1,6 @@
+name: NuclearCore
+version: 0.1-DEV
+main: me.darkboy.nuclear.NuclearCore
+api-version: "1.13"
+authors: [NotStxnks_]
+description: An all in one server core plugin.

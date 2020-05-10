@@ -1,0 +1,11 @@
+prefix: "&3Nuclear&bCore &7➜"
+
+messages:
+  generic:
+    usage: "{prefix} &7Incorrect usage please use &b{usage} {args}"
+    reload: "{prefix} &7Plugin successfully reloaded!"
+    no-perm: "{prefix} &7You don't have the permission!"
+  commands:
+    fly:
+      enabled: "{prefix} &7Fly has been enabled!"
+      disabled: "{prefix} &7Fly has been disabled!"

@@ -1,0 +1,6 @@
+name: NuclearCore
+version: ${project.version}
+main: me.darkboy.nuclear.NuclearCore
+api-version: "1.13"
+authors: [xKqneko_]
+description: An all in one server core plugin.

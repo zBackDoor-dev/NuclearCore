@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NuclearCore:jar">
+    <output-path>D:/1.8.8/plugins</output-path>
+    <root id="archive" name="NuclearCore.jar">
+      <element id="module-output" name="NuclearCore" />
+    </root>
+  </artifact>
+</component>
